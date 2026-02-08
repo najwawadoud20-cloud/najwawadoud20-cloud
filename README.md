@@ -16,7 +16,7 @@ J'aime l'informatique parce qu'elle a la précision des maths et la créativité
 ### 🛠️ Ma boîte à outils 
 *   **Design :** HTML5 & CSS3 (j'adore le Glassmorphism et les palettes douces).
 *   **Logique :** JavaScript (Vanilla).
-*   **Langues :** Arabe (maternelle), Français (ma langue de cœur), Anglais, et une initiation au Mandarin 🇨🇳.
+*   **Langues :** Arabe (maternelle), Français (ma langue de cœur), et Anglais.
 
 ---
 
